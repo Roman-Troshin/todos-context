@@ -1,0 +1,8 @@
+.searchContainer {
+	display: flex;
+	justify-content: end;
+}
+
+div {
+	margin: 0 5px;
+}

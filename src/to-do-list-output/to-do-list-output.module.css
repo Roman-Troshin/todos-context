@@ -1,0 +1,14 @@
+.todoItem {
+	margin: 1px;
+	background-color: #d6e0f0;
+}
+
+.todoItem:hover {
+	background-color: #aebbcf;
+}
+
+ol {
+	list-style: decimal inside;
+	margin: 0;
+	padding: 0;
+}
